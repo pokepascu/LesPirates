@@ -1,5 +1,7 @@
 package joueurs;
 
-public class Couleurs {
+public enum Couleurs {
+	ROUGE,
+	BLEU,
 
 }
