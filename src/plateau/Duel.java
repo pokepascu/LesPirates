@@ -1,5 +1,5 @@
 package plateau;
 
-public class Duel extends Case{
+public class Duel {
 
 }
